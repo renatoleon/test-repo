@@ -1,1 +1,2 @@
 New file in feat2
+New line
